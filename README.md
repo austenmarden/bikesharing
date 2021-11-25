@@ -30,7 +30,7 @@ After looking through recent vacation photos of a trip to New York City, I notic
 
     By filtering our August data by day and hour, we can see that the peak usage times are at 8AM and between 5PM and 7PM during weekdays with average usage on Saturdays between 10AM and 6PM.
 
-![trips_per_gender](./images/trips_per_gender.png)
+![trips_per_gender](./images/trips_per_gender.PNG)
 
     Similar to the previous slide on CitiBike usage per gender, here we can see that males are the primary consumer of the CitiBike services throughout the week.
 
